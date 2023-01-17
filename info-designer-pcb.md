@@ -8,7 +8,11 @@ For dimensions of each daughterboard series, visit [here](db-spec-list.md).
 We recommend importing the provided 3D model for checking dimensional compatibility, as well as checking the example implementations.  
 However, please check the important design constraints prior to design.  
   
-Daughterboards *must* be produced at 1.6mm PCB substrate thickness - daughterboards which are produced at different thicknesses are not considered to be in-spec.
+!>The thickness of the daughterboard *must* be 1.6mm.  
+Daughterboards which do not follow this thickness are considered out-of-spec.  
+
+!>4-layer daughterboards (C4 and newer, S1 and newer) *must* be produced on the 7628 stackup.  
+4-layer daughterboards not produced to this stackup are considered out-of-spec.  
 
 ## Choosing a daughterboard
 We recommend using the newly developed [S series daughterboards](db-spec-s.md) if starting from scratch.  

@@ -18,8 +18,8 @@ It is designed to be easier on both the designer and vendor, and has tweaks to r
   - Instead, air-gap the PCB to the case except for at the screw points. We recommend at least 0.5mm of distance.
 - Do not design your keyboard to fit extremely closely against the onboard components - they are subject to change if the circuitry is updated, and the component positions can drift in all directions depending on solder reflow tolerances.
 - PCB outline tolerances tend to be around 0.25mm or larger. Please give at least 0.25mm of clearance between the daughterboard design size and surrounding walls.
-- Make sure all screws being installed with sufficient thread tap depth.
-- Many of the daughterboard's features such as ESD protection rely on there being a reliable electrical connection from the point of ESD (i.e. the case top half's front bezel) to a select screw point on the daughterboard. Make sure this electrical connection exists through case part contact, screws, and similar if you wish to take advantage of them.
+- Make sure all screws are installed with sufficient thread tap depth.
+- Many of the daughterboard's features such as ESD protection rely on a reliable electrical connection from the point of ESD (i.e. the case top half's front bezel) to a select screw point on the daughterboard. Make sure this electrical connection exists through case part contact, screws, and similar if you wish to take advantage of them.
 
 ## Cable considerations
 A one-to-one 4 pin cable is used to connect the daughterboard to the mainboard - using Pico-EZmate connectors on newer daughterboards, JST-SH on older ones.  
@@ -33,7 +33,7 @@ A cable too short may interfere with ease of keyboard assembly.
 The C series daughterboards use four M2 screws.  
 The S series daughterboards use two M3 screws.  
   
-The screws should be of regular head type - do not use countersunk screws.  
+!>The screws should be of regular head type - do not use countersunk screws.  
 It is highly recommended to choose a screw with a head diameter lower than 4mm for M2, 6mm for M3. Using larger screws risks the screw reaching over the circuitry-filled areas of the daughterboard.
   
 A conductive screw should be used (i.e. uncoated stainless steel) to guarantee conductivity to the case.  

@@ -4,10 +4,10 @@ Information for vendors and manufacturers looking to arrange production of a Uni
 
 
 ## Production Spec
-The thickness of the daughterboard *must* be 1.6mm.  
+!>The thickness of the daughterboard *must* be 1.6mm.  
 Daughterboards which do not follow this thickness are considered out-of-spec.  
 
-4-layer daughterboards (C4 and newer, S1 and newer) should be produced on the 7628 stackup.  
+!>4-layer daughterboards (C4 and newer, S1 and newer) *must* be produced on the 7628 stackup.  
 4-layer daughterboards not produced to this stackup are considered out-of-spec.  
 
 
@@ -67,8 +67,8 @@ This can be used to run newer (C4+, S1+) daughterboards with older legacy PCBs w
 The C series daughterboards use four M2 screws.  
 The S series daughterboards use two M3 screws.  
   
-The screws should be of regular head type - do not use countersunk screws.  
-It is highly recommended to choose a screw with a head diameter lower than 4mm for M2, 6mm for M3. Using larger screws risks the screw reaching over the circuitry-filled areas of the daughterboard.
+!>The screws should be of regular head type - do not use countersunk screws.  
+It is highly recommended to choose a screw with a head diameter smaller than 4mm for M2, 6mm for M3. Using larger screws risks the screw reaching over the circuitry-filled areas of the daughterboard.
   
 A conductive screw should be used (i.e. uncoated stainless steel) to guarantee conductivity to the case.  
 Specifics such as head height and screw length should be discussed with the case designer.  
