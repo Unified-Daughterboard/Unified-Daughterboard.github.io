@@ -10,9 +10,9 @@ The alternative daughterboards that have cropped up often share a few characteri
 
 ## The S1 Slimline Daughterboard
 
-In an effort to do for this form factor what the Unified Daughterboard C3 did for a different form factor, we're pleased to introduce the new [S1 Slimline Daughterboard](https://github.com/Unified-Daughterboard/UDB-S1)!
+In an effort to do for this form factor what the Unified Daughterboard C3 did for a different form factor, we're pleased to introduce the new [S1 Slimline Daughterboard](https://github.com/Unified-Daughterboard/UDB-S)!
 
-![S1 Slimline Daughterboard](https://i.imgur.com/gEz4Lu4.jpg)
+![S1 Slimline Daughterboard](../_media/uDB-S1-photo.jpg)
 
 
 The Slimline Daughterboard has the following features:
@@ -79,7 +79,7 @@ We are also happy to announce that we are releasing a revision to the classic fo
 
 To maintain backwards compatibility, cables with Pico-EZmate on one side and JST-SH with a 1:1 pinout will also be available.
 
-The C4 Daughterboard is available [here](https://github.com/Unified-Daughterboard/UDB-C4).
+The C4 Daughterboard is available [here](https://github.com/Unified-Daughterboard/UDB-C).
 
 ## Future Revisions
 We already have a new revision of S1 and C4 in the works - but have chosen to release as-is because we think the new feature is not necessary for release, and so that designers can start designing around the S1.
