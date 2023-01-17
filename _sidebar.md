@@ -11,5 +11,5 @@
 <hr style="border-color: rgba(0, 0, 0, .07);">
 * [uDB Spec and Resources](db-spec-list.md)
   * [S Series](db-spec-s.md)
-  <!-- * [C Series](db-spec-c.md) -->
+  * [C Series](db-spec-c.md)
   * [Legacy C Series](db-spec-c-legacy.md)  

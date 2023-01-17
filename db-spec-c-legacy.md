@@ -3,7 +3,11 @@
 
 ## Overview
 
-The legacy C3 daughterboard (soon to be replaced with the C4 series) is the current most recent revision to the classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.  
+The legacy C3 daughterboard is a classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.  
+This is the last revision uDB which uses the JST-SH series connector - the [successor C4 and newer](db-spec-c.md) use the Pico-EZmate connector instead.  
+
+This design is NFND (not for new designs), only being documented as a legacy series for the sake of maintaining old keyboards which cannot be upgraded to C4 for one reason or another.  
+  
 The daughterboard features the following:  
 
 * ESD (Electrostatic Discharge) protection on the data lines of the USB connector through a specialized chip;
@@ -23,9 +27,10 @@ The daughterboard features the following:
 
 ## Resources
 
-[GitHub](https://github.com/Unified-Daughterboard/Unified-Daughterboard, ':ignore')  
-[3D model](/_media/uDB-C3-3D-model.STEP, ':ignore')  
-[Example implementation](/_media/example-impl-C3.step ':ignore')  
+[GitHub](https://github.com/Unified-Daughterboard/UDB-C-Legacy ':ignore')  
+[3D model](/_media/uDB-C3-3D-model.STEP ':ignore')  
+[Example implementation](/_media/uDB-C3-implementation-example.step ':ignore')  
+[Production data](https://github.com/Unified-Daughterboard/UDB-C-Legacy/tree/master/Production/C3 ':ignore')
 
 ## Images and Diagrams
 

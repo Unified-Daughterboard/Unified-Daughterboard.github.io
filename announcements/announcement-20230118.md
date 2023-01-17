@@ -1,4 +1,4 @@
-# 2023-01-18 - uDB Project Updates and S1 Release 
+# 2023-01-18 - S1 and C4 Release
 
 ## Background
 
@@ -71,15 +71,15 @@ In addition to this, both Molex and JST sell cable parts that can be easily put 
 
 As a silver lining to this issue - since pre-made cables are a bit harder to find, it's also less likely that someone can use a 3rd party cable with an incorrect pinout and destroy a PCB.
 
-## Moving Forward with C3
+## Moving Forward with C3 - Introducing C4
 
-We are also happy to announce that we will be releasing a revision to the classic form factor unified daughterboard - the C4 revision. In addition to all the C3 features, C4 will also include:
+We are also happy to announce that we are releasing a revision to the classic form factor unified daughterboard - the C4 revision. In addition to all the C3 features, C4 will also include:
 
 - A swap to the Molex Pico-EZmate connector
 
 To maintain backwards compatibility, cables with Pico-EZmate on one side and JST-SH with a 1:1 pinout will also be available.
 
-The C4 Daughterboard is available [here](link/to/repo).
+The C4 Daughterboard is available [here](https://github.com/Unified-Daughterboard/UDB-C4).
 
 ## Future Revisions
 We already have a new revision of S1 and C4 in the works - but have chosen to release as-is because we think the new feature is not necessary for release, and so that designers can start designing around the S1.
