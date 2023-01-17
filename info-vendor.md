@@ -63,6 +63,15 @@ This can be used to run newer (C4+, S1+) daughterboards with older legacy PCBs w
 ![Diagram](/_media/Diagram-Cable-EZmateToJST-Heatshrink.png ':size=700')
   
 
+## Daughterboard modifications
+Since the source files are available, it is possible to edit the daughterboard design prior to production, such as adding custom artwork.  
+However, please follow these requirements to keep the daughterboard uDB-spec:  
+- Please do not modify the circuitry, components, or form factor in any form (i.e. keep edits cosmetic).
+- Please make sure the daughterboard is identifiable as a uDB daughterboard by having the text "Unified" onboard in a visible manner.
+- Please make sure the daughterboard's series and revision is written onboard in text form in a clear, unambiguous manner (i.e. S1, C4, etc).  
+
+This helps keep your keyboard project maintainable and sustainable into the future by letting users clearly identify the daughterboard during replacement.
+
 ## Hardware Spec
 
 The C series daughterboards use four M2 screws.  
