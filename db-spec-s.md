@@ -20,6 +20,7 @@ The S1 variant was developed as an entirely new form factor from the older C3 ve
 * Screw holes: 33 mm apart
 * Hardware: 2x M3 screws
 * Connector: Molex Pico-EZmate (781710004)
+* PCB layers: 4 (7628 stackup)
 
 ## Resources
 

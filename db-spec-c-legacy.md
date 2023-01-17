@@ -24,6 +24,7 @@ The daughterboard features the following:
 * Corner radius: 2 mm
 * Hardware: M2 screws
 * Connector: JST-SH (JST SM04B-SRSS-TB(LF)(SN))
+* PCB layers: 2
 
 ## Resources
 

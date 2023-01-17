@@ -18,6 +18,7 @@ The daughterboard features the following:
 * Corner radius: 2 mm
 * Hardware: M2 screws
 * Connector: Molex Pico-EZmate (781710004)
+* PCB layers: 4 (7628 stackup)
 
 ## Resources
 
