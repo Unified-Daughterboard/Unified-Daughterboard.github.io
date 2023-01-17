@@ -8,7 +8,7 @@
   * Connector swap to Molex Pico-EZmate series to match S1
 * S1.1 release
   * Successor to S1
-  * Tweaked signal routing for USB 2.0 high-speed compatibility
+  * Tweaked signal routing for USB 2.0 high-speed (480mbps) compatibility
 
 ## 2023/01/18 - uDB S1 Release
 * New form factor
