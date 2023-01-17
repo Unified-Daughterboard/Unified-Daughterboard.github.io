@@ -15,7 +15,7 @@ The daughterboard features the following:
 * Overvoltage protection through a bidirectional TVS diode;
 * Shielding noise decoupling capabilities through a ferrite bead;
 * Single-path grounding of the metallic chassis to which the daughterboard is attached.
-* Same form factor as C1 and C2, allowing for daughterboard upgrades
+* Same form factor as the C legacy series, allowing for daughterboard upgrades
 
 ## Specification
 
