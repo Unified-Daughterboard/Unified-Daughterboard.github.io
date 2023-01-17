@@ -4,7 +4,7 @@
 
 ## Introduction
 The Unified Daughterboard Project is an open standard to unify the USB daughterboards used in custom mechanical keyboard projects.  
-The Unified Daughterboard allows designers to easily implementing electrical protection via a tested proven PCB, and allows users to maintain and repair their keyboards in the future.  
+The USB-to-internal-cable daughterboards allows designers to easily implement electrical protection via a tested proven PCB, and allows users to maintain and repair their keyboards in the future via an open-source standard.  
   
 The Unified Daughterboard integrates USB Type C connector and the needed circuitry for USB2.0 operation in a small PCB that can be screwed into a keyboard chassis; this allows for greater case design freedom and simplifies the main circuit board.
 
