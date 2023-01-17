@@ -73,7 +73,10 @@ As a silver lining to this issue - since pre-made cables are a bit harder to fin
 
 ## Moving Forward with C3 - Introducing C4
 
-We are also happy to announce that we are releasing a revision to the classic form factor unified daughterboard - the C4 revision. In addition to all the C3 features, C4 will also include:
+We are also happy to announce that we are releasing a revision to the classic form factor unified daughterboard - the C4 revision.  
+![Photo](../_media/uDB-C4-photo.jpg ':size=600')  
+
+In addition to all the C3 features, C4 will also include:
 
 - A swap to the Molex Pico-EZmate connector
 
