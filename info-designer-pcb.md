@@ -62,7 +62,7 @@ Please check the KiCad source to verify.
 
 
 ## Daughterboard modifications
-Since the source files are available, it is possible to edit the daughterboard design prior to production, such as adding custom artwork.  
+Since the source files are available, it is possible to edit the daughterboard design prior to production, such as by adding custom artwork.  
 However, please follow these requirements to keep the daughterboard uDB-spec:  
 - Please do not modify the circuitry, components, or form factor in any form (i.e. keep edits cosmetic).
 - Please make sure the daughterboard is identifiable as a uDB daughterboard by having the text "Unified" onboard in a visible manner.
