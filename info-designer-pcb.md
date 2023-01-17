@@ -42,7 +42,7 @@ Please see the [vendor info page](/info-vendor.md) for production diagrams.
 
 ## Connector considerations 
 
-The Pico-EZmate connector part for the new daughterboards is the [Molex 781710004](https://www.digikey.com/en/products/detail/molex/0781710004/2424925). Various connectors are known to be cross-compatible, such as [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XFCN-M1201RS-04-BK_C2840019.html), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XKB-Connectivity-X1224WRS-04-LPV01_C528030.html), and [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-HC-1-2-4PWT_C2997427.html).
+The Pico-EZmate connector part for the new daughterboards is the [Molex 781710004](https://www.digikey.com/en/products/detail/molex/0781710004/2424925). Various connectors are known to be cross-compatible, such as the JST-ACH series [BM04B-ACHSS-A-GAN-TF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-TF-LF-SN/1647790)/[BM04B-ACHSS-A-GAN-ETF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-ETF-LF-SN/10240659), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XFCN-M1201RS-04-BK_C2840019.html), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XKB-Connectivity-X1224WRS-04-LPV01_C528030.html), and [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-HC-1-2-4PWT_C2997427.html).  
   
   
 The older daughterboards use the [JST SM04B-SRSS-TB(LF)(SN)](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926875) connector.  
