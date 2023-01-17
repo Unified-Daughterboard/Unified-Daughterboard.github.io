@@ -25,7 +25,7 @@ The S1 variant was developed as an entirely new form factor from the older C3 ve
 
 [GitHub](https://github.com/Unified-Daughterboard/UDB-S ':ignore')  
 [3D model](/_media/uDB-S1-3D-model.STEP ':ignore')  
-[Example implementation, right-side up](/_media/uDB-S1-implementation-example.step, ':ignore')  
+[Example implementation, right-side up](/_media/uDB-S1-implementation-example.step ':ignore')  
 [Example implementation, upside-down](/_media/uDB-S1-implementation-example-reverse.step ':ignore')  
 [Production data](https://github.com/Unified-Daughterboard/UDB-S/tree/main/production ':ignore')  
 
