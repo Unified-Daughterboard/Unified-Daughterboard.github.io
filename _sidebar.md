@@ -1,5 +1,6 @@
 * [Home](/#unified-daughterboard)
 * [Roadmap](roadmap.md)
+* [Announcements](announcements.md)
 *
 <hr style="border-color: rgba(0, 0, 0, .07);">
 * [Consumer Info](info-consumer.md)

@@ -11,6 +11,7 @@
   * Tweaked signal routing for USB 2.0 high-speed (480mbps) compatibility
 
 ## 2023/01/18 - uDB S1 Release
+* Announcement post - [2022-01-18: uDB Project Updates and S1 Release](announcements/announcement-20230118.md)
 * New form factor
   * Narrow and wide shape which fits with less conflict on custom keyboards
   * Larger corner radii for easier case manufacturing

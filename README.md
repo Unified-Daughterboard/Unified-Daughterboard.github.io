@@ -13,6 +13,10 @@ The Unified Daughterboard integrates USB Type C connector and the needed circuit
 In its latest versions, the daughterboards of this project features ESD protection, overcurrent protection, overvoltage protection, shielding noise decoupling, and single-path grounding to chassis functionality.  
 Adittionally, same-letter series (C1, C2, C3, etc.) are backwards compatible, allowing for upgrading daughterboards used in past projects to newer revisions.  
 
+## Project Details
+[Roadmap](roadmap.md)  
+[Announcements](announcements.md)  
+
 ## Resources
 
 [For consumers](info-consumer.md)  
