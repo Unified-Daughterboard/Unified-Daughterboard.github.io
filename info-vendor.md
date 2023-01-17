@@ -37,7 +37,7 @@ For testing PCBs, if you do not already have a compatible cable on hand, you can
 
 ### Production Cables
 
-For mass production, we highly recommend ordering a proper custom batch order, especially since it allows for customizing the cable to the exact needs of the board.  
+For mass production, we highly recommend ordering a proper custom batch order (i.e. via [Alibaba listings](https://www.alibaba.com/product-detail/Customized-Molex-EZmate-to-Molex-EZmate_1600697379284.html) or similar), especially since it allows for customizing the cable to the exact needs of the board.  
 The following manufacturing diagrams provided by Hiney may aid in the process.
   
 #### Typical Pico-EZmate cable, without heatshrink  
