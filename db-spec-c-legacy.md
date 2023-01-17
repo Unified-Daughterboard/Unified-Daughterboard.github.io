@@ -4,9 +4,10 @@
 ## Overview
 
 The legacy C3 daughterboard is a classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.  
-This is the last revision uDB which uses the JST-SH series connector - the [successor C4 and newer](db-spec-c.md) use the Pico-EZmate connector instead.  
+This is the last revision uDB which uses the JST-SH series connector - the [successor C4 and newer](db-spec-c.md) uses the Pico-EZmate connector instead.  
 
-This design is NFND (not for new designs), only being documented as a legacy series for the sake of maintaining old keyboards which cannot be upgraded to C4 for one reason or another.  
+!>This legacy C series design is obsolete, only being documented as a legacy series for the sake of maintaining old keyboards which cannot be upgraded to C4 for one reason or another.  
+For new projects, please use either the [C series](db-spec-c.md) or [S series](db-spec-s.md) daughterboards instead.
   
 The daughterboard features the following:  
 
