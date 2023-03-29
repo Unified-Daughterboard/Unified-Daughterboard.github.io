@@ -1,8 +1,9 @@
 # S series (S1 and newer)
+Current latest version: S1.1  (Released 2023-03-xx)
 
 ## Overview
 
-The S1 variant was developed as an entirely new form factor from the older C3 version based on real-world production usage and designer input.
+The S variant daughterboard was developed as an entirely new form factor from the older C3 version based on real-world production usage and designer input.
 
 - "Wide and narrow" 40mm wide x 9mm deep x 1.6mm thick form factor
     - Avoids obstacles such as weights commonly found in custom keyboards
@@ -38,3 +39,9 @@ The S1 variant was developed as an entirely new form factor from the older C3 ve
 ![S series, top](/_media/uDB-S1-dimens-top.jpg ':size=900')
 ![S series, side](/_media/uDB-S1-dimens-side.jpg ':size=900')
 
+## Changelog
+
+- 2023-03-xx: S1.1 Release
+  - Improve USB routing
+- 2023-01-18: S1.0 Release
+  - Initial release

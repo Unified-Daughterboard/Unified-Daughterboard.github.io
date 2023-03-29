@@ -1,5 +1,5 @@
 # C series (C4 and newer) 
-
+Current latest version: C4.1  (Released 2023-03-xx)
 
 ## Overview
 
@@ -33,3 +33,11 @@ The daughterboard features the following:
 ![Render front](/_media/uDB-C4-render-front.jpg ':size=600')  
 ![Render rear](/_media/uDB-C4-render-rear.jpg ':size=600')  
 ![C](/_media/uDB-C4-dimens.jpg ':size=600')
+
+## Changelog
+
+- 2023-03-xx: C4.1 Release
+  - Updated footprint to S1 series reinforced footprint  
+  - Improve USB routing
+- 2023-01-18: C4.0 Release
+  - Initial release
