@@ -3,6 +3,13 @@
 If you're a keyboard enthusiast and are looking for details on maintenance or repair, you're in the right place.
 
 
+## Using USB-spec cables
+A proper USB cable has an outer electrical shield, which keeps operation reliable and assists in handling ESD (static shocks).  
+The Unified Daughterboard's protection circuitry is designed with the expectation that this shield exists and is functional - without it, the ESD protection features may be severely degraded or nonexistent.  
+
+!> There have been countless reports of people destroying their keyboards with a single static zap when using expensive "boutique" cables with a missing or incorrectly wired shield - to make sure that the uDB can protect your keyboard, **please make sure that your cable meets USB spec**.  
+
+
 ## Buying replacement daughterboards
 If a daughterboard breaks, it can be replaced with any of the daughterboards of the same series.  
 It is not recommended to go backwards in numbering; i.e. do not downgrade from a C3 to C1 if the board came with a C3. If you do, you will likely lose certain features such as advanced ESD protection.  
