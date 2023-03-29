@@ -3,7 +3,7 @@ Current latest version: C4.1  (Released 2023-03-30)
 
 ## Overview
 
-The C4 daughterboard is the current most recent revision to the classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.  
+The C series daughterboard is the current most recent revision to the classic square form-factor daughterboard, with its roots in the C1 which was designed to be compatible with Wilba's keyboards.  
 The daughterboard features the following:  
 
 * ESD protection, overcurrent protection, overvoltage protection, shielding noise decoupling, and single-path grounding to chassis functionality
