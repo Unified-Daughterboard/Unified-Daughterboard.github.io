@@ -1,5 +1,5 @@
 # S series (S1 and newer)
-Current latest version: S1.1  (Released 2023-03-xx)
+Current latest version: S1.1  (Released 2023-03-30)
 
 ## Overview
 
@@ -41,7 +41,7 @@ The S variant daughterboard was developed as an entirely new form factor from th
 
 ## Changelog
 
-- 2023-03-xx: S1.1 Release
+- 2023-03-30: S1.1 Release
   - Improve USB routing
 - 2023-01-18: S1.0 Release
   - Initial release

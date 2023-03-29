@@ -1,5 +1,5 @@
 # C series (C4 and newer) 
-Current latest version: C4.1  (Released 2023-03-xx)
+Current latest version: C4.1  (Released 2023-03-30)
 
 ## Overview
 
@@ -36,7 +36,7 @@ The daughterboard features the following:
 
 ## Changelog
 
-- 2023-03-xx: C4.1 Release
+- 2023-03-30: C4.1 Release
   - Updated footprint to S1 series reinforced footprint  
   - Improve USB routing
 - 2023-01-18: C4.0 Release
