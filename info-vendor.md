@@ -3,6 +3,20 @@
 Information for vendors and manufacturers looking to arrange production of a Unified Daughterboard.
 
 
+## USB-Spec Cables
+A proper USB cable has an outer electrical shield, which keeps operation reliable and assists in handling ESD (static shocks).  
+The Unified Daughterboard's protection circuitry is designed with the expectation that this shield exists and is functional - without it, the ESD protection features may be severely degraded or nonexistent.  
+
+!>There have been numerous reports of people destroying their keyboards with static shocks when using custom cables with a missing or incorrectly wired shield.
+
+To avoid damages in replacements, **we highly recommend that vendors do the following**:
+  
+* Recommend to customers that keyboards (regardless of uDB or not) are only used with a cable which follows USB spec.  
+* Only sell or recommend use with USB cables with a properly implemented shield.  
+
+For further information such as the USB foundation cable spec when ordering cables from manufacturers, please see the [Notices for USB Cable Makers](info-cable-maker.md) page.
+
+
 ## Production Spec
 !>The thickness of the daughterboard *must* be 1.6mm.  
 Daughterboards which do not follow this thickness are considered out-of-spec.  

@@ -1,13 +1,13 @@
 # Roadmap
 
-## Future Plans 
-* C4.1 release
-  * Successor to C4
-  * Replaces C4's Pico-EZmate footprint with a reinforced variant from S1
-  * Tweaked signal routing for USB 2.0 high-speed (480mbps) compatibility
-* S1.1 release
-  * Successor to S1
-  * Tweaked signal routing for USB 2.0 high-speed (480mbps) compatibility
+## 2023/03/30 - uDB C4.1 Release
+* Successor to C4
+* Replaces C4's Pico-EZmate footprint with a reinforced variant from S1
+* Tweaked signal routing for USB high-speed reliability  
+
+## 2023/03/30 - uDB S1.1 Release
+* Successor to S1
+* Tweaked signal routing for USB high-speed reliability  
 
 ## 2023/01/18 - uDB S1 Release
 * Announcement post - [2022-01-18: S1 and C4 Release](announcements/announcement-20230118.md)
