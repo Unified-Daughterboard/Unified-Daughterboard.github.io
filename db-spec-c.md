@@ -22,8 +22,8 @@ The daughterboard features the following:
 
 ## Resources
 
-GitHub: [EZM (Pico-EZMate Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore'), [JSH (JST-SH Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore')  
-[3D model](/_media/uDB-C4-3D-model.STEP ':ignore')  
+GitHub: [EZM (Pico-EZmate Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore'), [JSH (JST-SH Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore')  
+3D model: [EZM (Pico-EZmate Variant)](/_media/uDB-C4-3D-model.STEP ':ignore'), [JSH (JST-SH Variant)](/_media/uDB-C3-3D-model.STEP ':ignore')  
 [Example implementation](/_media/uDB-C4-implementation-example.step ':ignore')  
 [Production data](https://github.com/Unified-Daughterboard/UDB-C/tree/main/production ':ignore')  
 
