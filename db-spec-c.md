@@ -1,5 +1,5 @@
 # C series (C4 and newer) 
-Current latest version: C4.1  (Released 2023-03-30)
+Current latest version: C5.0 (Released 2023-10-22)
 
 ## Overview
 
@@ -7,7 +7,7 @@ The C series daughterboard is the current most recent revision to the classic sq
 The daughterboard features the following:  
 
 * ESD protection, overcurrent protection, overvoltage protection, shielding noise decoupling, and single-path grounding to chassis functionality
-* New Molex Pico-EZmate Connector, replacing the JST-SH on previous versions
+* Two variants: The new Molex Pico-EZmate and the classic JST-SH
 * 1:1 connector pinout to retain compatibility with existing PCBs
 * Same form factor as C1 and C2, allowing for daughterboard upgrades
 
@@ -22,7 +22,7 @@ The daughterboard features the following:
 
 ## Resources
 
-[GitHub](https://github.com/Unified-Daughterboard/UDB-C ':ignore')  
+GitHub: [EZM (Pico-EZMate Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore'), [JSH (JST-SH Variant)](https://github.com/Unified-Daughterboard/UDB-C ':ignore')  
 [3D model](/_media/uDB-C4-3D-model.STEP ':ignore')  
 [Example implementation](/_media/uDB-C4-implementation-example.step ':ignore')  
 [Production data](https://github.com/Unified-Daughterboard/UDB-C/tree/main/production ':ignore')  
@@ -36,6 +36,9 @@ The daughterboard features the following:
 
 ## Changelog
 
+- 2023-10-22: C5.0 Release
+  - Improved ESD handling
+  - Added two connector variants
 - 2023-03-30: C4.1 Release
   - Updated footprint to S1 series reinforced footprint  
   - Improve USB routing

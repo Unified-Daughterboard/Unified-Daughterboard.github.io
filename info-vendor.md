@@ -27,9 +27,8 @@ Daughterboards which do not follow this thickness are considered out-of-spec.
 
 ## PCB Connector Part
 
-The Pico-EZmate connector part for the new daughterboards is the [Molex 781710004](https://www.digikey.com/en/products/detail/molex/0781710004/2424925). Various connectors are known to be cross-compatible, such as the JST-ACH series [BM04B-ACHSS-A-GAN-TF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-TF-LF-SN/1647790)/[BM04B-ACHSS-A-GAN-ETF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-ETF-LF-SN/10240659), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XFCN-M1201RS-04-BK_C2840019.html), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XKB-Connectivity-X1224WRS-04-LPV01_C528030.html), and [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-HC-1-2-4PWT_C2997427.html).  
-  
-The older daughterboards (C3 and older) use the [JST SM04B-SRSS-TB(LF)(SN)](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926875) connector.  
+The Pico-EZmate connector part number is [Molex 781710004](https://www.digikey.com/en/products/detail/molex/0781710004/2424925). Various connectors are known to be cross-compatible, such as the JST-ACH series [BM04B-ACHSS-A-GAN-TF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-TF-LF-SN/1647790)/[BM04B-ACHSS-A-GAN-ETF](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM04B-ACHSS-A-GAN-ETF-LF-SN/10240659), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XFCN-M1201RS-04-BK_C2840019.html), [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_XKB-Connectivity-X1224WRS-04-LPV01_C528030.html), and [this](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_HCTL-HC-1-2-4PWT_C2997427.html).  
+The JST-SH connector part number is [JST SM04B-SRSS-TB(LF)(SN)](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB-LF-SN/926875) connector. Various cross-compatible connectors exist for this type.  
 
 
 ## Cable Spec
@@ -77,14 +76,16 @@ This can be used to run newer (C4+, S1+) daughterboards with older legacy PCBs w
 ![Diagram](/_media/Diagram-Cable-EZmateToJST-Heatshrink.png ':size=700')
   
 
-## Daughterboard Modifications
+## Daughterboard modifications
 Since the source files are available, it is possible to edit the daughterboard design prior to production, such as by adding custom artwork.  
 However, please follow these requirements to keep the daughterboard uDB-spec:  
 - Please do not modify the circuitry, components, or form factor in any form (i.e. keep edits cosmetic).
 - Please make sure the daughterboard is identifiable as a uDB daughterboard by having the text "Unified" onboard in a visible manner.
 - Please make sure the daughterboard's series and revision is written onboard in text form in a clear, unambiguous manner (i.e. S1, C4, etc).  
+- For versions C5/S2 and newer, please make sure the daughterboard's connector type identifier (EZM or JSH) is marked on the board in a clear, unambiguous manner.
 
-This helps keep your keyboard project maintainable and sustainable into the future by letting users clearly identify the daughterboard during replacement.
+This helps keep your keyboard project maintainable and sustainable into the future by letting users identify the daughterboard during replacement.
+
 
 ## Hardware Spec
 

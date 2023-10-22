@@ -22,8 +22,7 @@ It is designed to be easier on both the designer and vendor, and has tweaks to r
 - Many of the daughterboard's features such as ESD protection rely on a reliable electrical connection from the point of ESD (i.e. the case top half's front bezel) to a select screw point on the daughterboard. Make sure this electrical connection exists through case part contact, screws, and similar if you wish to take advantage of them.
 
 ## Cable considerations
-A one-to-one 4 pin cable is used to connect the daughterboard to the mainboard - using Pico-EZmate connectors on newer daughterboards, JST-SH on older ones.  
-We recommend using a newer daughterboard with the new connectors for they snap in firmly, are more resistant to damage and shearing, and are lower profile, reducing design constraints and need for massive cutouts.  
+A one-to-one 4 pin cable is used to connect the daughterboard to the mainboard - using Pico-EZmate connectors or JST-SH depending on the version.  
   
 Consideration should be given to the physical constraints of the cable - for example, make sure it is routed in such a way where it will not be physically damaged during assembly or use.  
 A cable too short may interfere with ease of keyboard assembly.  

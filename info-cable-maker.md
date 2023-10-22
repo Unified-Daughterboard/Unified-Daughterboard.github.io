@@ -14,7 +14,7 @@ To protect the keyboards of your users, when making USB cables, please make sure
   
 While all sections of the document are important, please note the following in particular:  
   
-* A proper, continuous outer shield exists **separately from the ground conductor**.  
+* A robust, continuous outer shield exists **separately from the ground conductor**.  
 * The **shield is wired properly to the shell of the connector at both ends**.  
 * The **shield is connected to ground** as per the spec **within the connector at both ends**.  
 

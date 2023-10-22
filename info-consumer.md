@@ -27,12 +27,14 @@ Connecting a cable of incorrect pin order may cause permanent electrical damage 
 
 
 ### Molex or JST?
-The daughterboards C1 to C3 used JST-SH connectors.  
-If your cable "slides in" to the connector horizontally, you are looking for a JST-SH cable.  
-In such a case, you can use the Sparkfun Qwiic cables; these are confirmed functional and compatible with the Unified USB Daughterboard series.  
-  
-Daughterboards C4 and newer, as well as the S series (S1 and newer) use Molex Pico-EZmate connectors.  
-If your cable "snaps in" perpendicularly into the PCB, you are looking for a Pico-EZmate cable.  
+- If your daughterboard is versions C1 to C3, you have the JST-SH connector.  
+- If your daughterboard is version C4 or S1, you have the Molex Pico-EZmate connector.  
+- If your daughterboard is version C5, S2, or newer, look for the label on the back of the PCB.
+  - If the label contains "JSH", you have the JST-SH connector.
+  - If the label contains "EZM", you have the Molez Pico-EZmate connector.
+
+For a quick sanity check: If your cable "slides in" to the connector horizontally, you are looking for a JST-SH cable; if your cable "snaps in" perpendicularly into the PCB, you are looking for a Pico-EZmate cable.  
+When in doubt, ask the vendor which you purchased your keyboard from.
 
   
 ### Pinout

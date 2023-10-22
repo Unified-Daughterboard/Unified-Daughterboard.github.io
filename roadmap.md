@@ -1,5 +1,11 @@
 # Roadmap
 
+## 2023/03/30 - uDB C5 Release
+* Announcement post - [2023-10-22: uDB C5 Release](announcements/announcement-20231022.md)
+* Successor to C4.1
+* Improved ESD handling
+* Added connector variants
+
 ## 2023/03/30 - uDB C4.1 Release
 * Successor to C4
 * Replaces C4's Pico-EZmate footprint with a reinforced variant from S1
